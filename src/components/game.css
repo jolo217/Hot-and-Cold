@@ -1,0 +1,12 @@
+.wrapper {
+	margin: 0 auto;
+	margin-top: 250px;
+	width: 500px;
+	background: ivory;
+	padding: 10px;
+	border: 2px solid black;
+}
+
+body {
+	background: ivory;
+}
