@@ -13,6 +13,8 @@
 	color: white;
 	font-weight: 400;
 	margin: 0 auto;
+	outline: 0;
+	border: 0;
 }
 
 #guessButton, #userGuess {
